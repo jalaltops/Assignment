@@ -1,0 +1,36 @@
+(1). Please break down the URLs listed below. (list-out Protocol, Domain,
+TLD) .
+
+
+• https://www.flipkart.com/
+flipkart = domain name
+www = sub domain
+.com =  top level domain
+https = protocol 
+
+• https://www.ircts.co.in/
+ircts = domain name
+https = protocol 
+www = sub domain
+.com =  top level domain
+In = India
+
+• https://www.allegro.pl/
+allegro = domain name
+https = protocol 
+www = sub domain
+pl =  tld
+
+• https://www.johnlewispartnership.co.uk/
+johnlewispartnership = domain name
+https = protocol 
+
+(2). What is HTTPS/SSL Update?
+
+An HTTPS/SSL update is the process of migrating a website from the standard 
+HTTP protocol to the secure HTTPS protocol by installing a SSL certificate on its server.
+
+
+(3). List out 10 famous browsers used worldwide.
+Google Chrome, Safari, Microsoft Edge, Mozilla Firefox, Opera, Brave, 
+Samsung Internet, Yandex Browser, UC Browser, and Vivaldi
